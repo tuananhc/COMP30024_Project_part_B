@@ -14,3 +14,4 @@ Techniques used:
 - Alpha-Beta pruning
 - A-star search
   
+Result: 17/22.
